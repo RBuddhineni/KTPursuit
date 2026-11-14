@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Internship desk</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1 id="desk-title">Internship desk</h1>
+      <p class="lede" id="desk-lede">Pick PM or SWE, then search public boards and Jobright for open internships you have not tracked yet.</p>
+      <div class="track" role="group" aria-label="Role track">
+        <button type="button" id="track-pm" data-track="pm" aria-pressed="true">PM</button>
+        <button type="button" id="track-swe" data-track="swe" aria-pressed="false">SWE</button>
+      </div>
+    </div>
+    <nav>
+      <button type="button" data-tab="jobs" aria-pressed="true">Listings</button>
+      <button type="button" data-tab="resume" aria-pressed="false">Resume</button>
+      <button type="button" data-tab="outreach" aria-pressed="false">Outreach</button>
+    </nav>
+  </header>
+  <main>
+    <section id="jobs" class="panel active">
+      <div class="toolbar">
+        <button class="action" id="refresh" type="button">Search boards</button>
+        <input id="filter" class="grow" placeholder="Filter by company, title, or city">
+        <span class="meta" id="job-meta"></span>
+      </div>
+      <div class="layout">
+        <div class="list" id="job-list"></div>
+        <div class="detail" id="job-detail">
+          <p class="meta">Open a role. The description, a resume built from your bullets, and the company’s application questions show up here.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="resume" class="panel">
+      <form id="profile-form" class="stack" style="padding:16px; display:grid; gap:12px;">
+        <div class="grid-2">
+          <label>First name <input name="firstName" required></label>
+          <label>Last name <input name="lastName" required></label>
+          <label>Preferred name <input name="preferredName"></label>
+          <label>Email <input name="email" type="email"></label>
+          <label>Phone <input name="phone"></label>
+          <label>School <input name="school"></label>
+          <label>Graduation <input name="gradDate" placeholder="May 2027"></label>
+          <label>Location <input name="location"></label>
+          <label>LinkedIn URL <input name="linkedin"></label>
+          <label>Website <input name="website"></label>
+        </div>
+        <label>Headline <input name="headline" class="grow" placeholder="Product-minded student who ships small experiments"></label>
+        <label>Summary <textarea name="summary"></textarea></label>
+        <label>Experience — one role per block, bullets starting with •
+          <textarea name="experienceText" placeholder="Product intern — Campus App — Summer 2025&#10;• Interviewed 12 students and cut signup time by 20%"></textarea>
+        </label>
+        <label>Projects — same shape as experience
+          <textarea name="projectText"></textarea>
+        </label>
+        <label>Skills, comma separated <input name="skills"></label>
+        <label>Resume PDF, attached when a Greenhouse application asks for one
+          <input name="resumeFile" type="file" accept=".pdf,.doc,.docx,.txt">
+        </label>
+        <div class="row">
+          <button class="action" type="submit">Save resume</button>
+          <span class="meta" id="profile-status"></span>
+        </div>
+      </form>
+    </section>
+
+    <section id="outreach" class="panel">
+      <div class="grid-2">
+        <div>
+          <h2>Drafts</h2>
+          <div class="cards" id="drafts"></div>
+        </div>
+        <form id="smtp-form" class="stack" style="padding:16px; display:grid; gap:10px;">
+          <h2>Email sending</h2>
+          <p class="meta">Mail leaves this computer only when you press Send on a draft. The password stays in the local data folder, which is gitignored.</p>
+          <label>SMTP host <input name="host" placeholder="smtp.gmail.com"></label>
+          <label>Port <input name="port" value="587"></label>
+          <label>Username <input name="user"></label>
+          <label>Password or app password <input name="pass" type="password" placeholder="Leave blank to keep the saved one"></label>
+          <label>From <input name="from"></label>
+          <div class="row">
+            <button class="action" type="submit">Save mail settings</button>
+            <span class="meta" id="smtp-status"></span>
+          </div>
+        </form>
+      </div>
+      <h2>Submitted from this desk</h2>
+      <div class="cards" id="applications"></div>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

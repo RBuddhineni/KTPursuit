@@ -1,26 +1,13 @@
 {
-  "name": "ktpursuit",
-  "version": "0.1.0",
+  "name": "internship-desk",
   "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Local desk for public PM and SWE internship listings, resume tailoring, and reviewed outreach.",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "start": "node server.mjs"
   },
   "dependencies": {
-    "next": "16.4.5",
-    "react": "19.3.0",
-    "react-dom": "19.3.0"
-  },
-  "devDependencies": {
-    "@tailwindcss/turbopack": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.4.5",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "nodemailer": "^7.0.6"
   }
 }
