@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "alum-001",
+    "name": "Avery Testwell",
+    "ktpClass": "Alpha Class",
+    "gradYear": 2018,
+    "major": "Information (UMSI)",
+    "email": "avery.testwell1@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-avery-testwell-1",
+    "experiences": [
+      {
+        "company": "Salesforce",
+        "title": "Data Scientist",
+        "type": "full-time",
+        "startYear": 2018,
+        "endYear": 2020
+      }
+    ]
+  },
+  {
+    "id": "alum-002",
+    "name": "Jordan Fakename",
+    "ktpClass": "Beta Class",
+    "gradYear": 2019,
+    "major": "Information (UMSI)",
+    "email": "jordan.fakename2@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-jordan-fakename-2",
+    "experiences": [
+      {
+        "company": "BCG",
+        "title": "Consultant",
+        "type": "full-time",
+        "startYear": 2019,
+        "endYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "alum-003",
+    "name": "Riley Exampleton",
+    "ktpClass": "Gamma Class",
+    "gradYear": 2020,
+    "major": "Industrial & Operations Engineering",
+    "email": "riley.exampleton3@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-riley-exampleton-3",
+    "experiences": [
+      {
+        "company": "Apple Inc.",
+        "title": "Product Management Intern",
+        "type": "internship",
+        "startYear": 2018,
+        "endYear": 2018
+      },
+      {
+        "company": "McKinsey",
+        "title": "Business Analyst Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "company": "Hudson River Trading",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      }
+    ]
+  },
+  {
+    "id": "alum-004",
+    "name": "Morgan Samplesen",
+    "ktpClass": "Delta Class",
+    "gradYear": 2021,
+    "major": "Computer Engineering",
+    "email": "morgan.samplesen4@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-morgan-samplesen-4",
+    "experiences": [
+      {
+        "company": "Microsoft Corporation",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "company": "Netflix",
+        "title": "Business Analyst Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      },
+      {
+        "company": "Jane Street Capital",
+        "title": "Security Engineer",
+        "type": "full-time",
+        "startYear": 2021,
+        "endYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "alum-005",
+    "name": "Casey Demo",
+    "ktpClass": "Epsilon Class",
+    "gradYear": 2022,
+    "major": "Data Science",
+    "email": "casey.demo5@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-casey-demo-5",
+    "experiences": [
+      {
+        "company": "Bain",
+        "title": "Product Management Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      },
+      {
+        "company": "Salesforce",
+        "title": "Product Management Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "alum-006",
+    "name": "Quinn Dummy",
+    "ktpClass": "Zeta Class",
+    "gradYear": 2023,
+    "major": "Computer Engineering",
+    "email": "quinn.dummy6@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-quinn-dummy-6",
+    "experiences": [
+      {
+        "company": "Adobe",
+        "title": "Design Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      },
+      {
+        "company": "CrowdStrike",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "company": "Adobe",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "alum-007",
+    "name": "Taylor Placeholder",
+    "ktpClass": "Eta Class",
+    "gradYear": 2024,
+    "major": "Information (UMSI)",
+    "email": "taylor.placeholder7@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-taylor-placeholder-7",
+    "experiences": [
+      {
+        "company": "Alphabet",
+        "title": "Product Manager",
+        "type": "full-time",
+        "startYear": 2024,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-008",
+    "name": "Parker Mockley",
+    "ktpClass": "Theta Class",
+    "gradYear": 2025,
+    "major": "Information (UMSI)",
+    "email": "parker.mockley8@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-parker-mockley-8",
+    "experiences": [
+      {
+        "company": "LinkedIn",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      },
+      {
+        "company": "Ford Motor Company",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2024,
+        "endYear": 2024
+      },
+      {
+        "company": "Ford Motor Company",
+        "title": "Product Management Intern",
+        "type": "internship",
+        "startYear": 2025,
+        "endYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "alum-009",
+    "name": "Rowan Testwell",
+    "ktpClass": "Alpha Class",
+    "gradYear": 2018,
+    "major": "Information (UMSI)",
+    "email": "rowan.testwell9@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-rowan-testwell-9",
+    "experiences": [
+      {
+        "company": "Apple Inc.",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2016,
+        "endYear": 2016
+      },
+      {
+        "company": "CrowdStrike",
+        "title": "Product Designer",
+        "type": "full-time",
+        "startYear": 2018,
+        "endYear": 2020
+      }
+    ]
+  },
+  {
+    "id": "alum-010",
+    "name": "Skyler Fakename",
+    "ktpClass": "Beta Class",
+    "gradYear": 2019,
+    "major": "Information (UMSI)",
+    "email": "skyler.fakename10@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-skyler-fakename-10",
+    "experiences": [
+      {
+        "company": "Hudson River Trading",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2017,
+        "endYear": 2017
+      },
+      {
+        "company": "McKinsey",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2018,
+        "endYear": 2018
+      }
+    ]
+  },
+  {
+    "id": "alum-011",
+    "name": "Emerson Exampleton",
+    "ktpClass": "Gamma Class",
+    "gradYear": 2020,
+    "major": "Computer Science",
+    "email": "emerson.exampleton11@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-emerson-exampleton-11",
+    "experiences": [
+      {
+        "company": "Capital One Financial",
+        "title": "Product Management Intern",
+        "type": "internship",
+        "startYear": 2018,
+        "endYear": 2018
+      },
+      {
+        "company": "CrowdStrike",
+        "title": "Software Engineer",
+        "type": "full-time",
+        "startYear": 2020,
+        "endYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "alum-012",
+    "name": "Hayden Samplesen",
+    "ktpClass": "Delta Class",
+    "gradYear": 2021,
+    "major": "Computer Engineering",
+    "email": "hayden.samplesen12@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-hayden-samplesen-12",
+    "experiences": [
+      {
+        "company": "Amazon Web Services",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "company": "Apple Inc.",
+        "title": "Product Designer",
+        "type": "full-time",
+        "startYear": 2021,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-013",
+    "name": "Reese Demo",
+    "ktpClass": "Epsilon Class",
+    "gradYear": 2022,
+    "major": "Mathematics",
+    "email": "reese.demo13@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-reese-demo-13",
+    "experiences": [
+      {
+        "company": "Microsoft Corporation",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      },
+      {
+        "company": "Cisco Systems",
+        "title": "Security Engineer",
+        "type": "full-time",
+        "startYear": 2022,
+        "endYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "alum-014",
+    "name": "Dakota Dummy",
+    "ktpClass": "Zeta Class",
+    "gradYear": 2023,
+    "major": "Computer Science",
+    "email": "dakota.dummy14@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-dakota-dummy-14",
+    "experiences": [
+      {
+        "company": "Stripe",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "alum-015",
+    "name": "Finley Placeholder",
+    "ktpClass": "Eta Class",
+    "gradYear": 2024,
+    "major": "Data Science",
+    "email": "finley.placeholder15@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-finley-placeholder-15",
+    "experiences": [
+      {
+        "company": "Apple Inc.",
+        "title": "Design Intern",
+        "type": "internship",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "company": "Hudson River Trading",
+        "title": "Data Scientist",
+        "type": "full-time",
+        "startYear": 2024,
+        "endYear": 2026
+      }
+    ]
+  },
+  {
+    "id": "alum-016",
+    "name": "Sage Mockley",
+    "ktpClass": "Theta Class",
+    "gradYear": 2025,
+    "major": "Industrial & Operations Engineering",
+    "email": "sage.mockley16@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-sage-mockley-16",
+    "experiences": [
+      {
+        "company": "Cisco Systems",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      },
+      {
+        "company": "Google LLC",
+        "title": "Security Engineer",
+        "type": "full-time",
+        "startYear": 2025,
+        "endYear": 2027
+      }
+    ]
+  },
+  {
+    "id": "alum-017",
+    "name": "Blake Testwell",
+    "ktpClass": "Alpha Class",
+    "gradYear": 2018,
+    "major": "Mathematics",
+    "email": "blake.testwell17@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-blake-testwell-17",
+    "experiences": [
+      {
+        "company": "Amazon.com, Inc.",
+        "title": "Security Engineer",
+        "type": "full-time",
+        "startYear": 2018,
+        "endYear": 2020
+      }
+    ]
+  },
+  {
+    "id": "alum-018",
+    "name": "Cameron Fakename",
+    "ktpClass": "Beta Class",
+    "gradYear": 2019,
+    "major": "Computer Science",
+    "email": "cameron.fakename18@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-cameron-fakename-18",
+    "experiences": [
+      {
+        "company": "Amazon.com, Inc.",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2017,
+        "endYear": 2017
+      }
+    ]
+  },
+  {
+    "id": "alum-019",
+    "name": "Drew Exampleton",
+    "ktpClass": "Gamma Class",
+    "gradYear": 2020,
+    "major": "Mathematics",
+    "email": "drew.exampleton19@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-drew-exampleton-19",
+    "experiences": [
+      {
+        "company": "McKinsey",
+        "title": "Business Analyst Intern",
+        "type": "internship",
+        "startYear": 2018,
+        "endYear": 2018
+      },
+      {
+        "company": "LinkedIn",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "company": "Netflix",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      }
+    ]
+  },
+  {
+    "id": "alum-020",
+    "name": "Elliot Samplesen",
+    "ktpClass": "Delta Class",
+    "gradYear": 2021,
+    "major": "Mathematics",
+    "email": "elliot.samplesen20@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-elliot-samplesen-20",
+    "experiences": [
+      {
+        "company": "Alphabet",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "company": "CrowdStrike",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      },
+      {
+        "company": "Deloitte Consulting",
+        "title": "Quantitative Trader",
+        "type": "full-time",
+        "startYear": 2021,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-021",
+    "name": "Avery Demo",
+    "ktpClass": "Epsilon Class",
+    "gradYear": 2022,
+    "major": "Computer Engineering",
+    "email": "avery.demo21@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-avery-demo-21",
+    "experiences": [
+      {
+        "company": "Ford Motor Company",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      },
+      {
+        "company": "Ford Motor Company",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      },
+      {
+        "company": "Spotify",
+        "title": "Consultant",
+        "type": "full-time",
+        "startYear": 2022,
+        "endYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "alum-022",
+    "name": "Jordan Dummy",
+    "ktpClass": "Zeta Class",
+    "gradYear": 2023,
+    "major": "Data Science",
+    "email": "jordan.dummy22@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-jordan-dummy-22",
+    "experiences": [
+      {
+        "company": "Ford Motor Company",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      },
+      {
+        "company": "Capital One Financial",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "company": "Citadel LLC",
+        "title": "ML Engineer",
+        "type": "full-time",
+        "startYear": 2023,
+        "endYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "alum-023",
+    "name": "Riley Placeholder",
+    "ktpClass": "Eta Class",
+    "gradYear": 2024,
+    "major": "Data Science",
+    "email": "riley.placeholder23@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-riley-placeholder-23",
+    "experiences": [
+      {
+        "company": "Microsoft Corporation",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "company": "Deloitte Consulting",
+        "title": "Security Engineer",
+        "type": "full-time",
+        "startYear": 2024,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-024",
+    "name": "Morgan Mockley",
+    "ktpClass": "Theta Class",
+    "gradYear": 2025,
+    "major": "Computer Engineering",
+    "email": "morgan.mockley24@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-morgan-mockley-24",
+    "experiences": [
+      {
+        "company": "Amazon Web Services",
+        "title": "Business Analyst Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      },
+      {
+        "company": "Adobe",
+        "title": "Consultant",
+        "type": "full-time",
+        "startYear": 2025,
+        "endYear": 2027
+      }
+    ]
+  },
+  {
+    "id": "alum-025",
+    "name": "Casey Testwell",
+    "ktpClass": "Alpha Class",
+    "gradYear": 2018,
+    "major": "Computer Engineering",
+    "email": "casey.testwell25@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-casey-testwell-25",
+    "experiences": [
+      {
+        "company": "Google LLC",
+        "title": "Product Management Intern",
+        "type": "internship",
+        "startYear": 2016,
+        "endYear": 2016
+      },
+      {
+        "company": "Figma",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2017,
+        "endYear": 2017
+      },
+      {
+        "company": "Salesforce",
+        "title": "Data Scientist",
+        "type": "full-time",
+        "startYear": 2018,
+        "endYear": 2020
+      }
+    ]
+  },
+  {
+    "id": "alum-026",
+    "name": "Quinn Fakename",
+    "ktpClass": "Beta Class",
+    "gradYear": 2019,
+    "major": "Mathematics",
+    "email": "quinn.fakename26@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-quinn-fakename-26",
+    "experiences": [
+      {
+        "company": "Bain",
+        "title": "Security Engineer",
+        "type": "full-time",
+        "startYear": 2019,
+        "endYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "alum-027",
+    "name": "Taylor Exampleton",
+    "ktpClass": "Gamma Class",
+    "gradYear": 2020,
+    "major": "Computer Science",
+    "email": "taylor.exampleton27@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-taylor-exampleton-27",
+    "experiences": [
+      {
+        "company": "Google LLC",
+        "title": "Design Intern",
+        "type": "internship",
+        "startYear": 2018,
+        "endYear": 2018
+      },
+      {
+        "company": "Jane Street Capital",
+        "title": "Design Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "company": "Alphabet",
+        "title": "Data Scientist",
+        "type": "full-time",
+        "startYear": 2020,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-028",
+    "name": "Parker Samplesen",
+    "ktpClass": "Delta Class",
+    "gradYear": 2021,
+    "major": "Data Science",
+    "email": "parker.samplesen28@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-parker-samplesen-28",
+    "experiences": [
+      {
+        "company": "Jane Street Capital",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      }
+    ]
+  },
+  {
+    "id": "alum-029",
+    "name": "Rowan Demo",
+    "ktpClass": "Epsilon Class",
+    "gradYear": 2022,
+    "major": "Computer Engineering",
+    "email": "rowan.demo29@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-rowan-demo-29",
+    "experiences": [
+      {
+        "company": "Hudson River Trading",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      }
+    ]
+  },
+  {
+    "id": "alum-030",
+    "name": "Skyler Dummy",
+    "ktpClass": "Zeta Class",
+    "gradYear": 2023,
+    "major": "Industrial & Operations Engineering",
+    "email": "skyler.dummy30@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-skyler-dummy-30",
+    "experiences": [
+      {
+        "company": "Ford Motor Company",
+        "title": "Business Analyst Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      },
+      {
+        "company": "Deloitte Consulting",
+        "title": "Product Management Intern",
+        "type": "internship",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "company": "Facebook",
+        "title": "Data Scientist",
+        "type": "full-time",
+        "startYear": 2023,
+        "endYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "alum-031",
+    "name": "Emerson Placeholder",
+    "ktpClass": "Eta Class",
+    "gradYear": 2024,
+    "major": "Information (UMSI)",
+    "email": "emerson.placeholder31@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-emerson-placeholder-31",
+    "experiences": [
+      {
+        "company": "LinkedIn",
+        "title": "Software Engineer",
+        "type": "full-time",
+        "startYear": 2024,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-032",
+    "name": "Hayden Mockley",
+    "ktpClass": "Theta Class",
+    "gradYear": 2025,
+    "major": "Information (UMSI)",
+    "email": "hayden.mockley32@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-hayden-mockley-32",
+    "experiences": [
+      {
+        "company": "Stripe",
+        "title": "Business Analyst Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "alum-033",
+    "name": "Reese Testwell",
+    "ktpClass": "Alpha Class",
+    "gradYear": 2018,
+    "major": "Computer Engineering",
+    "email": "reese.testwell33@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-reese-testwell-33",
+    "experiences": [
+      {
+        "company": "Optiver",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2016,
+        "endYear": 2016
+      },
+      {
+        "company": "Capital One Financial",
+        "title": "Software Engineer",
+        "type": "full-time",
+        "startYear": 2018,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-034",
+    "name": "Dakota Fakename",
+    "ktpClass": "Beta Class",
+    "gradYear": 2019,
+    "major": "Mathematics",
+    "email": "dakota.fakename34@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-dakota-fakename-34",
+    "experiences": [
+      {
+        "company": "Netflix",
+        "title": "Design Intern",
+        "type": "internship",
+        "startYear": 2017,
+        "endYear": 2017
+      }
+    ]
+  },
+  {
+    "id": "alum-035",
+    "name": "Finley Exampleton",
+    "ktpClass": "Gamma Class",
+    "gradYear": 2020,
+    "major": "Computer Engineering",
+    "email": "finley.exampleton35@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-finley-exampleton-35",
+    "experiences": [
+      {
+        "company": "CrowdStrike",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2018,
+        "endYear": 2018
+      },
+      {
+        "company": "Two Sigma Investments",
+        "title": "Consultant",
+        "type": "full-time",
+        "startYear": 2020,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-036",
+    "name": "Sage Samplesen",
+    "ktpClass": "Delta Class",
+    "gradYear": 2021,
+    "major": "Industrial & Operations Engineering",
+    "email": "sage.samplesen36@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-sage-samplesen-36",
+    "experiences": [
+      {
+        "company": "LinkedIn",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "company": "Two Sigma Investments",
+        "title": "Product Designer",
+        "type": "full-time",
+        "startYear": 2021,
+        "endYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "alum-037",
+    "name": "Blake Demo",
+    "ktpClass": "Epsilon Class",
+    "gradYear": 2022,
+    "major": "Industrial & Operations Engineering",
+    "email": "blake.demo37@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-blake-demo-37",
+    "experiences": [
+      {
+        "company": "Optiver",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2020,
+        "endYear": 2020
+      },
+      {
+        "company": "LinkedIn",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      },
+      {
+        "company": "Spotify",
+        "title": "Software Engineer",
+        "type": "full-time",
+        "startYear": 2022,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-038",
+    "name": "Cameron Dummy",
+    "ktpClass": "Zeta Class",
+    "gradYear": 2023,
+    "major": "Industrial & Operations Engineering",
+    "email": "cameron.dummy38@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-cameron-dummy-38",
+    "experiences": [
+      {
+        "company": "BCG",
+        "title": "Security Intern",
+        "type": "internship",
+        "startYear": 2021,
+        "endYear": 2021
+      },
+      {
+        "company": "Deloitte Consulting",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "company": "Accenture",
+        "title": "Software Engineering Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "alum-039",
+    "name": "Drew Placeholder",
+    "ktpClass": "Eta Class",
+    "gradYear": 2024,
+    "major": "Mathematics",
+    "email": "drew.placeholder39@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-drew-placeholder-39",
+    "experiences": [
+      {
+        "company": "Citadel LLC",
+        "title": "Business Analyst Intern",
+        "type": "internship",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "company": "Figma",
+        "title": "Quant Trading Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      },
+      {
+        "company": "Adobe",
+        "title": "ML Engineer",
+        "type": "full-time",
+        "startYear": 2024,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "alum-040",
+    "name": "Elliot Mockley",
+    "ktpClass": "Theta Class",
+    "gradYear": 2025,
+    "major": "Computer Engineering",
+    "email": "elliot.mockley40@example.com",
+    "linkedin": "https://www.linkedin.com/in/example-elliot-mockley-40",
+    "experiences": [
+      {
+        "company": "Ford Motor Company",
+        "title": "Data Science Intern",
+        "type": "internship",
+        "startYear": 2023,
+        "endYear": 2023
+      },
+      {
+        "company": "Apple Inc.",
+        "title": "Security Engineer",
+        "type": "full-time",
+        "startYear": 2025,
+        "endYear": 2027
+      }
+    ]
+  }
+]

@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# KTPursuit
 
-## Getting Started
+Built by KTP Alpha Eta pledges (Push2Prod). A student uploads a resume and picks the roles they're interested in. AI extracts their profile and ranks matching internships and full-time roles, each with a match percentage. Each matched company then lists the KTP alumni who worked or interned there, with an editable intro message.
 
-First, run the development server:
+**Stack:** Next.js 16 (App Router) · TypeScript · Tailwind v4 · Anthropic API (`@anthropic-ai/sdk`) · zod
+
+## Run it locally
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+cp .env.example .env.local   # then fill in values (optional, see below)
+npm run dev                  # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Without an API key the app runs in **mock mode**: a keyword scan stands in for AI extraction, and fit scores are estimated. A yellow banner says so.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Variable | Needed? | What it does |
+|---|---|---|
+| `ANTHROPIC_API_KEY` | For real AI | Resume → profile extraction and job-fit scoring. Missing = mock mode. |
+| `CHAPTER_PASSCODE` | **Yes in production** | Shared passcode that unlocks alumni names and contact info. Defaults to `ktp-dev` locally. If it isn't set in production, the alumni section stays locked. |
 
-## Learn More
+On Vercel, add both under Project → Settings → Environment Variables.
 
-To learn more about Next.js, take a look at the following resources:
+## How it works
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **`/upload`**: the resume (PDF or DOCX, ≤ 4.5 MB, which is Vercel's request limit) goes to `POST /api/analyze-resume`. It's converted to text in memory (`unpdf` / `mammoth`), sent to Claude, and discarded. It is never stored.
+2. **`/review`**: the student edits the extracted profile. State lives only in the browser's sessionStorage.
+3. **`/results`**: `POST /api/match` filters and ranks jobs. See **`lib/matching.ts`** for the score formula (skills 40%, interest 20%, class-year level fit 15%, AI judgment 25%). It uses class year, never age.
+4. **Alumni**: `POST /api/alumni` takes a list of company names. Before unlocking it returns only counts. After the passcode is entered (httpOnly signed cookie), it returns the alumni for those companies only. There is no endpoint that lists everyone. Company names are matched through an alias map in `lib/alumni/companies.ts` ("Facebook" → Meta, "Google LLC" → Google, …).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Where to change things
 
-## Deploy on Vercel
+- **Colors:** CSS variables at the top of `app/globals.css`
+- **AI prompts:** `lib/ai/prompts.ts`
+- **Scoring weights and rules:** `lib/matching.ts`
+- **Jobs:** `data/jobs.json` (85 seeded postings). To use a real API (JSearch, Adzuna), implement the `JobSource` interface in `lib/jobs/index.ts`.
+- **Company aliases:** `lib/alumni/companies.ts`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Importing real alumni data
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+`data/alumni.json` is **fake sample data**. Real alumni data must never be committed, because this repo is public.
+
+1. Export the alumni database as CSV with one row per job, using these columns:
+   `name, ktp_class, grad_year, major, email, linkedin, company, title, type, start_year, end_year`
+   (`type` = internship / full-time; `end_year` blank = current role. Rows with the same email are merged.)
+2. Run:
+   ```bash
+   npm run import:alumni -- path/to/export.csv
+   ```
+   This writes `data/alumni.private.json`, which is gitignored. The app uses it in place of the sample data whenever it exists. Restart `npm run dev` after importing.
+
+**Production note:** because the private file isn't in git, Vercel deployments still use the sample data. Before launch, move the real data to private storage (for example Vercel Blob or a database) and load it in `lib/alumni/store.ts`.
+
+## Scripts
+
+`npm run dev` · `npm run build` · `npm run lint` · `npm run import:alumni -- file.csv`
