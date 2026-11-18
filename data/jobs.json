@@ -1,0 +1,1886 @@
+[
+  {
+    "id": "job-001",
+    "title": "Software Engineering Intern",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "description": "Build and ship production features alongside a mentor on a core product team.",
+    "url": "https://www.google.com/search?q=Google%20Software%20Engineering%20Intern"
+  },
+  {
+    "id": "job-002",
+    "title": "Software Engineer, New Grad",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Software Engineering",
+    "level": "entry",
+    "requiredSkills": [
+      "Data Structures",
+      "Algorithms",
+      "Java",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "SQL"
+    ],
+    "description": "Design, build, and operate services used by millions of customers.",
+    "url": "https://www.google.com/search?q=Google%20Software%20Engineer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-003",
+    "title": "Software Engineer, New Grad",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Software Engineering",
+    "level": "entry",
+    "requiredSkills": [
+      "Data Structures",
+      "Algorithms",
+      "Java",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "SQL"
+    ],
+    "description": "Design, build, and operate services used by millions of customers.",
+    "url": "https://www.google.com/search?q=Microsoft%20Software%20Engineer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-004",
+    "title": "Frontend Engineering Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "niceToHaveSkills": [
+      "TypeScript",
+      "Next.js",
+      "Figma"
+    ],
+    "description": "Build polished, accessible user interfaces for customer-facing web apps.",
+    "url": "https://www.google.com/search?q=Microsoft%20Frontend%20Engineering%20Intern"
+  },
+  {
+    "id": "job-005",
+    "title": "Frontend Engineering Intern",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "remote": true,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "niceToHaveSkills": [
+      "TypeScript",
+      "Next.js",
+      "Figma"
+    ],
+    "description": "Build polished, accessible user interfaces for customer-facing web apps.",
+    "url": "https://www.google.com/search?q=Meta%20Frontend%20Engineering%20Intern"
+  },
+  {
+    "id": "job-006",
+    "title": "Senior Software Engineer",
+    "company": "Amazon",
+    "location": "Seattle, WA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Software Engineering",
+    "level": "senior",
+    "requiredSkills": [
+      "Java",
+      "Distributed Systems",
+      "AWS"
+    ],
+    "niceToHaveSkills": [
+      "Go",
+      "Kubernetes"
+    ],
+    "description": "Lead design of large-scale backend systems and mentor engineers.",
+    "url": "https://www.google.com/search?q=Amazon%20Senior%20Software%20Engineer"
+  },
+  {
+    "id": "job-007",
+    "title": "Software Engineering Intern",
+    "company": "Amazon",
+    "location": "Seattle, WA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "description": "Build and ship production features alongside a mentor on a core product team.",
+    "url": "https://www.google.com/search?q=Amazon%20Software%20Engineering%20Intern"
+  },
+  {
+    "id": "job-008",
+    "title": "Software Engineering Intern",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "description": "Build and ship production features alongside a mentor on a core product team.",
+    "url": "https://www.google.com/search?q=Apple%20Software%20Engineering%20Intern"
+  },
+  {
+    "id": "job-009",
+    "title": "Software Engineer, New Grad",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Software Engineering",
+    "level": "entry",
+    "requiredSkills": [
+      "Data Structures",
+      "Algorithms",
+      "Java",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "SQL"
+    ],
+    "description": "Design, build, and operate services used by millions of customers.",
+    "url": "https://www.google.com/search?q=Apple%20Software%20Engineer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-010",
+    "title": "Software Engineer, New Grad",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "type": "full-time",
+    "category": "Software Engineering",
+    "level": "entry",
+    "requiredSkills": [
+      "Data Structures",
+      "Algorithms",
+      "Java",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "SQL"
+    ],
+    "description": "Design, build, and operate services used by millions of customers.",
+    "url": "https://www.google.com/search?q=Stripe%20Software%20Engineer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-011",
+    "title": "Frontend Engineering Intern",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "niceToHaveSkills": [
+      "TypeScript",
+      "Next.js",
+      "Figma"
+    ],
+    "description": "Build polished, accessible user interfaces for customer-facing web apps.",
+    "url": "https://www.google.com/search?q=Stripe%20Frontend%20Engineering%20Intern"
+  },
+  {
+    "id": "job-012",
+    "title": "Frontend Engineering Intern",
+    "company": "Salesforce",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "niceToHaveSkills": [
+      "TypeScript",
+      "Next.js",
+      "Figma"
+    ],
+    "description": "Build polished, accessible user interfaces for customer-facing web apps.",
+    "url": "https://www.google.com/search?q=Salesforce%20Frontend%20Engineering%20Intern"
+  },
+  {
+    "id": "job-013",
+    "title": "Senior Software Engineer",
+    "company": "Salesforce",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Software Engineering",
+    "level": "senior",
+    "requiredSkills": [
+      "Java",
+      "Distributed Systems",
+      "AWS"
+    ],
+    "niceToHaveSkills": [
+      "Go",
+      "Kubernetes"
+    ],
+    "description": "Lead design of large-scale backend systems and mentor engineers.",
+    "url": "https://www.google.com/search?q=Salesforce%20Senior%20Software%20Engineer"
+  },
+  {
+    "id": "job-014",
+    "title": "Software Engineering Intern",
+    "company": "Capital One",
+    "location": "McLean, VA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "Git"
+    ],
+    "niceToHaveSkills": [
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "description": "Build and ship production features alongside a mentor on a core product team.",
+    "url": "https://www.google.com/search?q=Capital%20One%20Software%20Engineering%20Intern"
+  },
+  {
+    "id": "job-015",
+    "title": "Data Science Intern",
+    "company": "Spotify",
+    "location": "New York, NY",
+    "remote": true,
+    "type": "internship",
+    "category": "Data Science",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas"
+    ],
+    "niceToHaveSkills": [
+      "R",
+      "Tableau",
+      "Machine Learning"
+    ],
+    "description": "Analyze product data, run experiments, and present insights to stakeholders.",
+    "url": "https://www.google.com/search?q=Spotify%20Data%20Science%20Intern"
+  },
+  {
+    "id": "job-016",
+    "title": "Data Analyst, New Grad",
+    "company": "Spotify",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "full-time",
+    "category": "Data Science",
+    "level": "entry",
+    "requiredSkills": [
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Tableau"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "R"
+    ],
+    "description": "Turn business questions into dashboards and data-driven recommendations.",
+    "url": "https://www.google.com/search?q=Spotify%20Data%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-017",
+    "title": "Data Analyst, New Grad",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Data Science",
+    "level": "entry",
+    "requiredSkills": [
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Tableau"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "R"
+    ],
+    "description": "Turn business questions into dashboards and data-driven recommendations.",
+    "url": "https://www.google.com/search?q=Airbnb%20Data%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-018",
+    "title": "Data Science Intern",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Data Science",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas"
+    ],
+    "niceToHaveSkills": [
+      "R",
+      "Tableau",
+      "Machine Learning"
+    ],
+    "description": "Analyze product data, run experiments, and present insights to stakeholders.",
+    "url": "https://www.google.com/search?q=Airbnb%20Data%20Science%20Intern"
+  },
+  {
+    "id": "job-019",
+    "title": "Data Science Intern",
+    "company": "Ford",
+    "location": "Dearborn, MI",
+    "remote": false,
+    "type": "internship",
+    "category": "Data Science",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas"
+    ],
+    "niceToHaveSkills": [
+      "R",
+      "Tableau",
+      "Machine Learning"
+    ],
+    "description": "Analyze product data, run experiments, and present insights to stakeholders.",
+    "url": "https://www.google.com/search?q=Ford%20Data%20Science%20Intern"
+  },
+  {
+    "id": "job-020",
+    "title": "Data Analyst, New Grad",
+    "company": "Ford",
+    "location": "Dearborn, MI",
+    "remote": true,
+    "type": "full-time",
+    "category": "Data Science",
+    "level": "entry",
+    "requiredSkills": [
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Tableau"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "R"
+    ],
+    "description": "Turn business questions into dashboards and data-driven recommendations.",
+    "url": "https://www.google.com/search?q=Ford%20Data%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-021",
+    "title": "Data Analyst, New Grad",
+    "company": "Capital One",
+    "location": "McLean, VA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Data Science",
+    "level": "entry",
+    "requiredSkills": [
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Tableau"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "R"
+    ],
+    "description": "Turn business questions into dashboards and data-driven recommendations.",
+    "url": "https://www.google.com/search?q=Capital%20One%20Data%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-022",
+    "title": "Data Science Intern",
+    "company": "Capital One",
+    "location": "McLean, VA",
+    "remote": false,
+    "type": "internship",
+    "category": "Data Science",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas"
+    ],
+    "niceToHaveSkills": [
+      "R",
+      "Tableau",
+      "Machine Learning"
+    ],
+    "description": "Analyze product data, run experiments, and present insights to stakeholders.",
+    "url": "https://www.google.com/search?q=Capital%20One%20Data%20Science%20Intern"
+  },
+  {
+    "id": "job-023",
+    "title": "Data Science Intern",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Data Science",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas"
+    ],
+    "niceToHaveSkills": [
+      "R",
+      "Tableau",
+      "Machine Learning"
+    ],
+    "description": "Analyze product data, run experiments, and present insights to stakeholders.",
+    "url": "https://www.google.com/search?q=Netflix%20Data%20Science%20Intern"
+  },
+  {
+    "id": "job-024",
+    "title": "Data Analyst, New Grad",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Data Science",
+    "level": "entry",
+    "requiredSkills": [
+      "SQL",
+      "Excel",
+      "Statistics",
+      "Tableau"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "R"
+    ],
+    "description": "Turn business questions into dashboards and data-driven recommendations.",
+    "url": "https://www.google.com/search?q=Netflix%20Data%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-025",
+    "title": "Machine Learning Engineer Intern",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "remote": true,
+    "type": "internship",
+    "category": "ML/AI",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "NumPy"
+    ],
+    "niceToHaveSkills": [
+      "TensorFlow",
+      "scikit-learn",
+      "AWS"
+    ],
+    "description": "Train, evaluate, and deploy ML models that power product features.",
+    "url": "https://www.google.com/search?q=NVIDIA%20Machine%20Learning%20Engineer%20Intern"
+  },
+  {
+    "id": "job-026",
+    "title": "AI Research Intern",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "ML/AI",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "Linear Algebra"
+    ],
+    "description": "Contribute to applied research on large models with a research mentor.",
+    "url": "https://www.google.com/search?q=NVIDIA%20AI%20Research%20Intern"
+  },
+  {
+    "id": "job-027",
+    "title": "AI Research Intern",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "ML/AI",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "Linear Algebra"
+    ],
+    "description": "Contribute to applied research on large models with a research mentor.",
+    "url": "https://www.google.com/search?q=Google%20AI%20Research%20Intern"
+  },
+  {
+    "id": "job-028",
+    "title": "Machine Learning Engineer, New Grad",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "ML/AI",
+    "level": "entry",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Docker",
+      "AWS",
+      "TensorFlow"
+    ],
+    "description": "Build and productionize ML pipelines end to end.",
+    "url": "https://www.google.com/search?q=Google%20Machine%20Learning%20Engineer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-029",
+    "title": "Machine Learning Engineer, New Grad",
+    "company": "Meta",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "full-time",
+    "category": "ML/AI",
+    "level": "entry",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Docker",
+      "AWS",
+      "TensorFlow"
+    ],
+    "description": "Build and productionize ML pipelines end to end.",
+    "url": "https://www.google.com/search?q=Meta%20Machine%20Learning%20Engineer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-030",
+    "title": "Machine Learning Engineer Intern",
+    "company": "Meta",
+    "location": "New York, NY",
+    "remote": true,
+    "type": "internship",
+    "category": "ML/AI",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "NumPy"
+    ],
+    "niceToHaveSkills": [
+      "TensorFlow",
+      "scikit-learn",
+      "AWS"
+    ],
+    "description": "Train, evaluate, and deploy ML models that power product features.",
+    "url": "https://www.google.com/search?q=Meta%20Machine%20Learning%20Engineer%20Intern"
+  },
+  {
+    "id": "job-031",
+    "title": "Machine Learning Engineer Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "internship",
+    "category": "ML/AI",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "NumPy"
+    ],
+    "niceToHaveSkills": [
+      "TensorFlow",
+      "scikit-learn",
+      "AWS"
+    ],
+    "description": "Train, evaluate, and deploy ML models that power product features.",
+    "url": "https://www.google.com/search?q=Microsoft%20Machine%20Learning%20Engineer%20Intern"
+  },
+  {
+    "id": "job-032",
+    "title": "AI Research Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "internship",
+    "category": "ML/AI",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "Linear Algebra"
+    ],
+    "description": "Contribute to applied research on large models with a research mentor.",
+    "url": "https://www.google.com/search?q=Microsoft%20AI%20Research%20Intern"
+  },
+  {
+    "id": "job-033",
+    "title": "AI Research Intern",
+    "company": "Apple",
+    "location": "Seattle, WA",
+    "remote": false,
+    "type": "internship",
+    "category": "ML/AI",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "Linear Algebra"
+    ],
+    "description": "Contribute to applied research on large models with a research mentor.",
+    "url": "https://www.google.com/search?q=Apple%20AI%20Research%20Intern"
+  },
+  {
+    "id": "job-034",
+    "title": "Machine Learning Engineer, New Grad",
+    "company": "Apple",
+    "location": "Seattle, WA",
+    "remote": false,
+    "type": "full-time",
+    "category": "ML/AI",
+    "level": "entry",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Docker",
+      "AWS",
+      "TensorFlow"
+    ],
+    "description": "Build and productionize ML pipelines end to end.",
+    "url": "https://www.google.com/search?q=Apple%20Machine%20Learning%20Engineer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-035",
+    "title": "Associate Product Manager Intern",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "remote": true,
+    "type": "internship",
+    "category": "Product Management",
+    "level": "intern",
+    "requiredSkills": [
+      "Product Strategy",
+      "User Research",
+      "Communication"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Agile",
+      "Figma"
+    ],
+    "description": "Own a feature from discovery to launch, working with engineering and design.",
+    "url": "https://www.google.com/search?q=Google%20Associate%20Product%20Manager%20Intern"
+  },
+  {
+    "id": "job-036",
+    "title": "Associate Product Manager",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Product Management",
+    "level": "entry",
+    "requiredSkills": [
+      "Product Strategy",
+      "Communication",
+      "Agile"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "User Research"
+    ],
+    "description": "Drive roadmap and execution for a product area in a rotational APM program.",
+    "url": "https://www.google.com/search?q=Google%20Associate%20Product%20Manager"
+  },
+  {
+    "id": "job-037",
+    "title": "Associate Product Manager",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Product Management",
+    "level": "entry",
+    "requiredSkills": [
+      "Product Strategy",
+      "Communication",
+      "Agile"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "User Research"
+    ],
+    "description": "Drive roadmap and execution for a product area in a rotational APM program.",
+    "url": "https://www.google.com/search?q=Microsoft%20Associate%20Product%20Manager"
+  },
+  {
+    "id": "job-038",
+    "title": "Associate Product Manager Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "internship",
+    "category": "Product Management",
+    "level": "intern",
+    "requiredSkills": [
+      "Product Strategy",
+      "User Research",
+      "Communication"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Agile",
+      "Figma"
+    ],
+    "description": "Own a feature from discovery to launch, working with engineering and design.",
+    "url": "https://www.google.com/search?q=Microsoft%20Associate%20Product%20Manager%20Intern"
+  },
+  {
+    "id": "job-039",
+    "title": "Associate Product Manager Intern",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Product Management",
+    "level": "intern",
+    "requiredSkills": [
+      "Product Strategy",
+      "User Research",
+      "Communication"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Agile",
+      "Figma"
+    ],
+    "description": "Own a feature from discovery to launch, working with engineering and design.",
+    "url": "https://www.google.com/search?q=Uber%20Associate%20Product%20Manager%20Intern"
+  },
+  {
+    "id": "job-040",
+    "title": "Associate Product Manager",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "type": "full-time",
+    "category": "Product Management",
+    "level": "entry",
+    "requiredSkills": [
+      "Product Strategy",
+      "Communication",
+      "Agile"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "User Research"
+    ],
+    "description": "Drive roadmap and execution for a product area in a rotational APM program.",
+    "url": "https://www.google.com/search?q=Uber%20Associate%20Product%20Manager"
+  },
+  {
+    "id": "job-041",
+    "title": "Associate Product Manager",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Product Management",
+    "level": "entry",
+    "requiredSkills": [
+      "Product Strategy",
+      "Communication",
+      "Agile"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "User Research"
+    ],
+    "description": "Drive roadmap and execution for a product area in a rotational APM program.",
+    "url": "https://www.google.com/search?q=LinkedIn%20Associate%20Product%20Manager"
+  },
+  {
+    "id": "job-042",
+    "title": "Associate Product Manager Intern",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Product Management",
+    "level": "intern",
+    "requiredSkills": [
+      "Product Strategy",
+      "User Research",
+      "Communication"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Agile",
+      "Figma"
+    ],
+    "description": "Own a feature from discovery to launch, working with engineering and design.",
+    "url": "https://www.google.com/search?q=LinkedIn%20Associate%20Product%20Manager%20Intern"
+  },
+  {
+    "id": "job-043",
+    "title": "Associate Product Manager Intern",
+    "company": "Salesforce",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "internship",
+    "category": "Product Management",
+    "level": "intern",
+    "requiredSkills": [
+      "Product Strategy",
+      "User Research",
+      "Communication"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Agile",
+      "Figma"
+    ],
+    "description": "Own a feature from discovery to launch, working with engineering and design.",
+    "url": "https://www.google.com/search?q=Salesforce%20Associate%20Product%20Manager%20Intern"
+  },
+  {
+    "id": "job-044",
+    "title": "Associate Product Manager",
+    "company": "Salesforce",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "full-time",
+    "category": "Product Management",
+    "level": "entry",
+    "requiredSkills": [
+      "Product Strategy",
+      "Communication",
+      "Agile"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "User Research"
+    ],
+    "description": "Drive roadmap and execution for a product area in a rotational APM program.",
+    "url": "https://www.google.com/search?q=Salesforce%20Associate%20Product%20Manager"
+  },
+  {
+    "id": "job-045",
+    "title": "Product Design Intern",
+    "company": "Figma",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "type": "internship",
+    "category": "UX/UI Design",
+    "level": "intern",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "HTML",
+      "CSS",
+      "Communication"
+    ],
+    "description": "Design end-to-end experiences, from research to high-fidelity prototypes.",
+    "url": "https://www.google.com/search?q=Figma%20Product%20Design%20Intern"
+  },
+  {
+    "id": "job-046",
+    "title": "UX Designer, New Grad",
+    "company": "Figma",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "UX/UI Design",
+    "level": "entry",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "Accessibility",
+      "HTML"
+    ],
+    "description": "Shape product experiences through research, interaction design, and testing.",
+    "url": "https://www.google.com/search?q=Figma%20UX%20Designer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-047",
+    "title": "UX Designer, New Grad",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "UX/UI Design",
+    "level": "entry",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "Accessibility",
+      "HTML"
+    ],
+    "description": "Shape product experiences through research, interaction design, and testing.",
+    "url": "https://www.google.com/search?q=Adobe%20UX%20Designer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-048",
+    "title": "Product Design Intern",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "UX/UI Design",
+    "level": "intern",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "HTML",
+      "CSS",
+      "Communication"
+    ],
+    "description": "Design end-to-end experiences, from research to high-fidelity prototypes.",
+    "url": "https://www.google.com/search?q=Adobe%20Product%20Design%20Intern"
+  },
+  {
+    "id": "job-049",
+    "title": "Product Design Intern",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "UX/UI Design",
+    "level": "intern",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "HTML",
+      "CSS",
+      "Communication"
+    ],
+    "description": "Design end-to-end experiences, from research to high-fidelity prototypes.",
+    "url": "https://www.google.com/search?q=Airbnb%20Product%20Design%20Intern"
+  },
+  {
+    "id": "job-050",
+    "title": "UX Designer, New Grad",
+    "company": "Airbnb",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "type": "full-time",
+    "category": "UX/UI Design",
+    "level": "entry",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "Accessibility",
+      "HTML"
+    ],
+    "description": "Shape product experiences through research, interaction design, and testing.",
+    "url": "https://www.google.com/search?q=Airbnb%20UX%20Designer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-051",
+    "title": "UX Designer, New Grad",
+    "company": "Spotify",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "full-time",
+    "category": "UX/UI Design",
+    "level": "entry",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "Accessibility",
+      "HTML"
+    ],
+    "description": "Shape product experiences through research, interaction design, and testing.",
+    "url": "https://www.google.com/search?q=Spotify%20UX%20Designer%2C%20New%20Grad"
+  },
+  {
+    "id": "job-052",
+    "title": "Product Design Intern",
+    "company": "Spotify",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "internship",
+    "category": "UX/UI Design",
+    "level": "intern",
+    "requiredSkills": [
+      "Figma",
+      "Prototyping",
+      "User Research"
+    ],
+    "niceToHaveSkills": [
+      "HTML",
+      "CSS",
+      "Communication"
+    ],
+    "description": "Design end-to-end experiences, from research to high-fidelity prototypes.",
+    "url": "https://www.google.com/search?q=Spotify%20Product%20Design%20Intern"
+  },
+  {
+    "id": "job-053",
+    "title": "Quantitative Trading Intern",
+    "company": "Jane Street",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "requiredSkills": [
+      "Probability",
+      "Statistics",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "Algorithms"
+    ],
+    "description": "Develop and test trading strategies in a fast-paced, collaborative environment.",
+    "url": "https://www.google.com/search?q=Jane%20Street%20Quantitative%20Trading%20Intern"
+  },
+  {
+    "id": "job-054",
+    "title": "Quantitative Research Intern",
+    "company": "Jane Street",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "requiredSkills": [
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Probability"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "NumPy"
+    ],
+    "description": "Research predictive signals in large financial datasets.",
+    "url": "https://www.google.com/search?q=Jane%20Street%20Quantitative%20Research%20Intern"
+  },
+  {
+    "id": "job-055",
+    "title": "Quantitative Research Intern",
+    "company": "Citadel",
+    "location": "Chicago, IL",
+    "remote": true,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "requiredSkills": [
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Probability"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "NumPy"
+    ],
+    "description": "Research predictive signals in large financial datasets.",
+    "url": "https://www.google.com/search?q=Citadel%20Quantitative%20Research%20Intern"
+  },
+  {
+    "id": "job-056",
+    "title": "Software Engineer, Trading Systems (New Grad)",
+    "company": "Citadel",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "full-time",
+    "category": "Quant",
+    "level": "entry",
+    "requiredSkills": [
+      "C++",
+      "Algorithms",
+      "Data Structures",
+      "Linux"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Networking"
+    ],
+    "description": "Build low-latency trading infrastructure.",
+    "url": "https://www.google.com/search?q=Citadel%20Software%20Engineer%2C%20Trading%20Systems%20(New%20Grad)"
+  },
+  {
+    "id": "job-057",
+    "title": "Software Engineer, Trading Systems (New Grad)",
+    "company": "Two Sigma",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "full-time",
+    "category": "Quant",
+    "level": "entry",
+    "requiredSkills": [
+      "C++",
+      "Algorithms",
+      "Data Structures",
+      "Linux"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Networking"
+    ],
+    "description": "Build low-latency trading infrastructure.",
+    "url": "https://www.google.com/search?q=Two%20Sigma%20Software%20Engineer%2C%20Trading%20Systems%20(New%20Grad)"
+  },
+  {
+    "id": "job-058",
+    "title": "Quantitative Trading Intern",
+    "company": "Two Sigma",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "requiredSkills": [
+      "Probability",
+      "Statistics",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "Algorithms"
+    ],
+    "description": "Develop and test trading strategies in a fast-paced, collaborative environment.",
+    "url": "https://www.google.com/search?q=Two%20Sigma%20Quantitative%20Trading%20Intern"
+  },
+  {
+    "id": "job-059",
+    "title": "Quantitative Trading Intern",
+    "company": "Hudson River Trading",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "requiredSkills": [
+      "Probability",
+      "Statistics",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "Algorithms"
+    ],
+    "description": "Develop and test trading strategies in a fast-paced, collaborative environment.",
+    "url": "https://www.google.com/search?q=Hudson%20River%20Trading%20Quantitative%20Trading%20Intern"
+  },
+  {
+    "id": "job-060",
+    "title": "Quantitative Research Intern",
+    "company": "Hudson River Trading",
+    "location": "New York, NY",
+    "remote": true,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "requiredSkills": [
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Probability"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "NumPy"
+    ],
+    "description": "Research predictive signals in large financial datasets.",
+    "url": "https://www.google.com/search?q=Hudson%20River%20Trading%20Quantitative%20Research%20Intern"
+  },
+  {
+    "id": "job-061",
+    "title": "Quantitative Research Intern",
+    "company": "Optiver",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "requiredSkills": [
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Probability"
+    ],
+    "niceToHaveSkills": [
+      "C++",
+      "NumPy"
+    ],
+    "description": "Research predictive signals in large financial datasets.",
+    "url": "https://www.google.com/search?q=Optiver%20Quantitative%20Research%20Intern"
+  },
+  {
+    "id": "job-062",
+    "title": "Software Engineer, Trading Systems (New Grad)",
+    "company": "Optiver",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "full-time",
+    "category": "Quant",
+    "level": "entry",
+    "requiredSkills": [
+      "C++",
+      "Algorithms",
+      "Data Structures",
+      "Linux"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Networking"
+    ],
+    "description": "Build low-latency trading infrastructure.",
+    "url": "https://www.google.com/search?q=Optiver%20Software%20Engineer%2C%20Trading%20Systems%20(New%20Grad)"
+  },
+  {
+    "id": "job-063",
+    "title": "Business Analyst Intern",
+    "company": "McKinsey & Company",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "internship",
+    "category": "Consulting",
+    "level": "intern",
+    "requiredSkills": [
+      "Excel",
+      "Communication",
+      "Problem Solving"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Tableau",
+      "PowerPoint"
+    ],
+    "description": "Work on client teams solving strategy and operations problems.",
+    "url": "https://www.google.com/search?q=McKinsey%20%26%20Company%20Business%20Analyst%20Intern"
+  },
+  {
+    "id": "job-064",
+    "title": "Technology Consultant",
+    "company": "McKinsey & Company",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "full-time",
+    "category": "Consulting",
+    "level": "entry",
+    "requiredSkills": [
+      "Communication",
+      "Problem Solving",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Agile",
+      "AWS"
+    ],
+    "description": "Help clients plan and deliver technology transformations.",
+    "url": "https://www.google.com/search?q=McKinsey%20%26%20Company%20Technology%20Consultant"
+  },
+  {
+    "id": "job-065",
+    "title": "Technology Consultant",
+    "company": "Boston Consulting Group",
+    "location": "Detroit, MI",
+    "remote": true,
+    "type": "full-time",
+    "category": "Consulting",
+    "level": "entry",
+    "requiredSkills": [
+      "Communication",
+      "Problem Solving",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Agile",
+      "AWS"
+    ],
+    "description": "Help clients plan and deliver technology transformations.",
+    "url": "https://www.google.com/search?q=Boston%20Consulting%20Group%20Technology%20Consultant"
+  },
+  {
+    "id": "job-066",
+    "title": "Business Analyst Intern",
+    "company": "Boston Consulting Group",
+    "location": "Detroit, MI",
+    "remote": false,
+    "type": "internship",
+    "category": "Consulting",
+    "level": "intern",
+    "requiredSkills": [
+      "Excel",
+      "Communication",
+      "Problem Solving"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Tableau",
+      "PowerPoint"
+    ],
+    "description": "Work on client teams solving strategy and operations problems.",
+    "url": "https://www.google.com/search?q=Boston%20Consulting%20Group%20Business%20Analyst%20Intern"
+  },
+  {
+    "id": "job-067",
+    "title": "Business Analyst Intern",
+    "company": "Deloitte",
+    "location": "Detroit, MI",
+    "remote": false,
+    "type": "internship",
+    "category": "Consulting",
+    "level": "intern",
+    "requiredSkills": [
+      "Excel",
+      "Communication",
+      "Problem Solving"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Tableau",
+      "PowerPoint"
+    ],
+    "description": "Work on client teams solving strategy and operations problems.",
+    "url": "https://www.google.com/search?q=Deloitte%20Business%20Analyst%20Intern"
+  },
+  {
+    "id": "job-068",
+    "title": "Technology Consultant",
+    "company": "Deloitte",
+    "location": "Detroit, MI",
+    "remote": false,
+    "type": "full-time",
+    "category": "Consulting",
+    "level": "entry",
+    "requiredSkills": [
+      "Communication",
+      "Problem Solving",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Agile",
+      "AWS"
+    ],
+    "description": "Help clients plan and deliver technology transformations.",
+    "url": "https://www.google.com/search?q=Deloitte%20Technology%20Consultant"
+  },
+  {
+    "id": "job-069",
+    "title": "Technology Consultant",
+    "company": "Accenture",
+    "location": "Chicago, IL",
+    "remote": false,
+    "type": "full-time",
+    "category": "Consulting",
+    "level": "entry",
+    "requiredSkills": [
+      "Communication",
+      "Problem Solving",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Agile",
+      "AWS"
+    ],
+    "description": "Help clients plan and deliver technology transformations.",
+    "url": "https://www.google.com/search?q=Accenture%20Technology%20Consultant"
+  },
+  {
+    "id": "job-070",
+    "title": "Business Analyst Intern",
+    "company": "Accenture",
+    "location": "Chicago, IL",
+    "remote": true,
+    "type": "internship",
+    "category": "Consulting",
+    "level": "intern",
+    "requiredSkills": [
+      "Excel",
+      "Communication",
+      "Problem Solving"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Tableau",
+      "PowerPoint"
+    ],
+    "description": "Work on client teams solving strategy and operations problems.",
+    "url": "https://www.google.com/search?q=Accenture%20Business%20Analyst%20Intern"
+  },
+  {
+    "id": "job-071",
+    "title": "Business Analyst Intern",
+    "company": "Bain & Company",
+    "location": "Boston, MA",
+    "remote": false,
+    "type": "internship",
+    "category": "Consulting",
+    "level": "intern",
+    "requiredSkills": [
+      "Excel",
+      "Communication",
+      "Problem Solving"
+    ],
+    "niceToHaveSkills": [
+      "SQL",
+      "Tableau",
+      "PowerPoint"
+    ],
+    "description": "Work on client teams solving strategy and operations problems.",
+    "url": "https://www.google.com/search?q=Bain%20%26%20Company%20Business%20Analyst%20Intern"
+  },
+  {
+    "id": "job-072",
+    "title": "Technology Consultant",
+    "company": "Bain & Company",
+    "location": "Boston, MA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Consulting",
+    "level": "entry",
+    "requiredSkills": [
+      "Communication",
+      "Problem Solving",
+      "SQL"
+    ],
+    "niceToHaveSkills": [
+      "Python",
+      "Agile",
+      "AWS"
+    ],
+    "description": "Help clients plan and deliver technology transformations.",
+    "url": "https://www.google.com/search?q=Bain%20%26%20Company%20Technology%20Consultant"
+  },
+  {
+    "id": "job-073",
+    "title": "Security Engineering Intern",
+    "company": "CrowdStrike",
+    "location": "Austin, TX",
+    "remote": false,
+    "type": "internship",
+    "category": "Cybersecurity",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Linux",
+      "Networking"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "C",
+      "AWS"
+    ],
+    "description": "Find and fix vulnerabilities and build security tooling.",
+    "url": "https://www.google.com/search?q=CrowdStrike%20Security%20Engineering%20Intern"
+  },
+  {
+    "id": "job-074",
+    "title": "Security Analyst, New Grad",
+    "company": "CrowdStrike",
+    "location": "Austin, TX",
+    "remote": false,
+    "type": "full-time",
+    "category": "Cybersecurity",
+    "level": "entry",
+    "requiredSkills": [
+      "Networking",
+      "Linux",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "SQL"
+    ],
+    "description": "Monitor, investigate, and respond to security events.",
+    "url": "https://www.google.com/search?q=CrowdStrike%20Security%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-075",
+    "title": "Security Analyst, New Grad",
+    "company": "Palo Alto Networks",
+    "location": "Santa Clara, CA",
+    "remote": true,
+    "type": "full-time",
+    "category": "Cybersecurity",
+    "level": "entry",
+    "requiredSkills": [
+      "Networking",
+      "Linux",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "SQL"
+    ],
+    "description": "Monitor, investigate, and respond to security events.",
+    "url": "https://www.google.com/search?q=Palo%20Alto%20Networks%20Security%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-076",
+    "title": "Security Engineering Intern",
+    "company": "Palo Alto Networks",
+    "location": "Santa Clara, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Cybersecurity",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Linux",
+      "Networking"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "C",
+      "AWS"
+    ],
+    "description": "Find and fix vulnerabilities and build security tooling.",
+    "url": "https://www.google.com/search?q=Palo%20Alto%20Networks%20Security%20Engineering%20Intern"
+  },
+  {
+    "id": "job-077",
+    "title": "Security Engineering Intern",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Cybersecurity",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Linux",
+      "Networking"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "C",
+      "AWS"
+    ],
+    "description": "Find and fix vulnerabilities and build security tooling.",
+    "url": "https://www.google.com/search?q=Cisco%20Security%20Engineering%20Intern"
+  },
+  {
+    "id": "job-078",
+    "title": "Security Analyst, New Grad",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Cybersecurity",
+    "level": "entry",
+    "requiredSkills": [
+      "Networking",
+      "Linux",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "SQL"
+    ],
+    "description": "Monitor, investigate, and respond to security events.",
+    "url": "https://www.google.com/search?q=Cisco%20Security%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-079",
+    "title": "Security Analyst, New Grad",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "full-time",
+    "category": "Cybersecurity",
+    "level": "entry",
+    "requiredSkills": [
+      "Networking",
+      "Linux",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "SQL"
+    ],
+    "description": "Monitor, investigate, and respond to security events.",
+    "url": "https://www.google.com/search?q=Microsoft%20Security%20Analyst%2C%20New%20Grad"
+  },
+  {
+    "id": "job-080",
+    "title": "Security Engineering Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": true,
+    "type": "internship",
+    "category": "Cybersecurity",
+    "level": "intern",
+    "requiredSkills": [
+      "Python",
+      "Linux",
+      "Networking"
+    ],
+    "niceToHaveSkills": [
+      "Cryptography",
+      "C",
+      "AWS"
+    ],
+    "description": "Find and fix vulnerabilities and build security tooling.",
+    "url": "https://www.google.com/search?q=Microsoft%20Security%20Engineering%20Intern"
+  },
+  {
+    "id": "job-081",
+    "title": "STEP Intern (Student Training in Engineering Program)",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "targetYears": [
+      "freshman",
+      "sophomore"
+    ],
+    "requiredSkills": [
+      "Python",
+      "Data Structures"
+    ],
+    "niceToHaveSkills": [
+      "Java",
+      "C++"
+    ],
+    "description": "An early-career program designed for first- and second-year students, pairing interns with mentors on real projects.",
+    "url": "https://www.google.com/search?q=Google%20STEP%20Intern%20(Student%20Training%20in%20Engineering%20Program)"
+  },
+  {
+    "id": "job-082",
+    "title": "Explore Intern",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "targetYears": [
+      "freshman",
+      "sophomore"
+    ],
+    "requiredSkills": [
+      "Python",
+      "Java"
+    ],
+    "niceToHaveSkills": [
+      "Git"
+    ],
+    "description": "An early-career program designed for first- and second-year students, pairing interns with mentors on real projects.",
+    "url": "https://www.google.com/search?q=Microsoft%20Explore%20Intern"
+  },
+  {
+    "id": "job-083",
+    "title": "Meta University Engineering Intern",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "targetYears": [
+      "freshman",
+      "sophomore"
+    ],
+    "requiredSkills": [
+      "Python",
+      "Data Structures"
+    ],
+    "niceToHaveSkills": [
+      "JavaScript"
+    ],
+    "description": "An early-career program designed for first- and second-year students, pairing interns with mentors on real projects.",
+    "url": "https://www.google.com/search?q=Meta%20Meta%20University%20Engineering%20Intern"
+  },
+  {
+    "id": "job-084",
+    "title": "Technology Early Internship",
+    "company": "Capital One",
+    "location": "McLean, VA",
+    "remote": false,
+    "type": "internship",
+    "category": "Software Engineering",
+    "level": "intern",
+    "targetYears": [
+      "freshman",
+      "sophomore"
+    ],
+    "requiredSkills": [
+      "Python",
+      "Java"
+    ],
+    "niceToHaveSkills": [
+      "SQL"
+    ],
+    "description": "An early-career program designed for first- and second-year students, pairing interns with mentors on real projects.",
+    "url": "https://www.google.com/search?q=Capital%20One%20Technology%20Early%20Internship"
+  },
+  {
+    "id": "job-085",
+    "title": "Insight Program (Sophomores)",
+    "company": "Jane Street",
+    "location": "New York, NY",
+    "remote": false,
+    "type": "internship",
+    "category": "Quant",
+    "level": "intern",
+    "targetYears": [
+      "sophomore"
+    ],
+    "requiredSkills": [
+      "Probability",
+      "Python"
+    ],
+    "niceToHaveSkills": [
+      "Algorithms"
+    ],
+    "description": "An early-career program designed for first- and second-year students, pairing interns with mentors on real projects.",
+    "url": "https://www.google.com/search?q=Jane%20Street%20Insight%20Program%20(Sophomores)"
+  }
+]

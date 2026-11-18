@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "import:alumni": "node scripts/import-alumni.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.10.0",
